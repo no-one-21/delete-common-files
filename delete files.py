@@ -1,5 +1,7 @@
 import os
+
 folderPath=input("input folder path ")
+# in files all the list of files is stored
 files=os.listdir((folderPath))
 
 folderPath2=input("enter second folder path from which u want files to be deleted")
