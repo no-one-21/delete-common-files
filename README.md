@@ -12,3 +12,4 @@
 
 6.) Also Further Ideas are Welcomed Or open a new Issue.
 
+7.) It's a open source project.
