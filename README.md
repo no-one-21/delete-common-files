@@ -12,3 +12,5 @@
 
 6.) Also Further Ideas are Welcomed Or open a new Issue.
 
+7.)Readme can be updated more as a part of hacktoberfest challenge.
+
